@@ -12,6 +12,6 @@
     "socket.io": "^4.8.3"
   },
   "scripts": {
-    "start": "node index.js"
+    "start": "node --watch index.js "
   }
 }
